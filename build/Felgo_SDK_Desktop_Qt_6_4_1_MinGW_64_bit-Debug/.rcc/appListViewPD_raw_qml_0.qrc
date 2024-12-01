@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/PageFooter.qml">C:/Users/cdtt3/Documents/ListViewPD/qml/PageFooter.qml</file>
+    <file alias="qml/MyDelegate.qml">C:/Users/cdtt3/Documents/ListViewPD/qml/MyDelegate.qml</file>
+  </qresource>
+</RCC>
+

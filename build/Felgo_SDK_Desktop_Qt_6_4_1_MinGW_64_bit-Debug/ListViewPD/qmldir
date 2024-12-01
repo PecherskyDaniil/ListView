@@ -1,0 +1,6 @@
+module ListViewPD
+typeinfo appListViewPD.qmltypes
+prefer :/
+PageFooter 1.0 qml/PageFooter.qml
+MyDelegate 1.0 qml/MyDelegate.qml
+
